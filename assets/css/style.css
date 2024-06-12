@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  margin: 0;
+  color: #333;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#logo {
+  width: 200px;
+  padding-bottom: 1rem;
+}
+
+#testata {
+  background-color: #fefbf1;
+  padding: 1rem 0;
+  border-top: 1px solid #ffd977;
+  color: #004d4d;
+  font-size: 1rem;
+}
+
+.distanza {
+  padding-top: 0.6rem;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.note {
+  margin: 0 181px;
+}
+#Sally {
+  color: #999999;
+}
